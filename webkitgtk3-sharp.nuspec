@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
+    <metadata>
+        <id>webkitgtk3-sharp</id>
+        <version>2.4.9.1</version>
+        <title>webkitgtk3-sharp</title>
+        <authors>cra0zy</authors>
+        <licenseUrl>https://github.com/openmedicus/webkitgtk3-sharp/blob/master/COPYING</licenseUrl>
+        <projectUrl>https://github.com/cra0zy/webkitgtk3-sharp-nuget</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>This package contains Gtk3 WebKit for Gtk#.</description>
+        <summary>C# Bindings for Gtk3 WebKit.</summary>
+        <releaseNotes></releaseNotes>
+        <copyright>Copyright 2016</copyright>
+        <language>en-US</language>
+    </metadata>
+    <files>
+        <file src="webkitgtk3-sharp/sources/webkitgtk3-sharp.dll" target="lib/net40/webkitgtk3-sharp.dll" />
+        <file src="webkitgtk3-sharp/sources/webkitgtk3-sharp.dll.config" target="build/net40/webkitgtk3-sharp.dll.config" />
+        <file src="webkitgtk3-sharp.targets" target="build/net40/webkitgtk3-sharp.targets" />
+    </files>
+</package>

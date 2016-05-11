@@ -1,0 +1,3 @@
+[submodule "webkitgtk3-sharp"]
+	path = webkitgtk3-sharp
+	url = https://github.com/openmedicus/webkitgtk3-sharp.git
